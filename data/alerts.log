@@ -1,0 +1,3 @@
+[HIGH] Brute-force suspected from 198.51.100.23: 8 failed SSH logins
+[HIGH] Web attack pattern from 203.0.113.7: 6 malicious requests
+[MEDIUM] Port scan suspected from 198.51.100.99: 15 distinct ports probed

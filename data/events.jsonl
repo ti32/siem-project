@@ -1,0 +1,309 @@
+{"timestamp": "Jul 30 00:53:32", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:34", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:36", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:38", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:40", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:42", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:44", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:46", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:48", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:50", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:52", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:54", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:56", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:53:58", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:00", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:02", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:04", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:06", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:08", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:10", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:12", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:14", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:16", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:18", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:20", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:22", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "alice", "status": "Failed"}
+{"timestamp": "Jul 30 00:54:24", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:26", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:28", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:30", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:32", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:34", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:36", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:38", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:40", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:42", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:44", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:46", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:48", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:50", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:52", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:54", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:56", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:54:58", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "bob", "status": "Failed"}
+{"timestamp": "Jul 30 00:55:00", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:02", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "erin", "status": "Failed"}
+{"timestamp": "Jul 30 00:55:04", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:06", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:08", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:10", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:12", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:14", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:16", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:18", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:20", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:22", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:24", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:26", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:28", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:30", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:32", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:34", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:36", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:38", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:40", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "dave", "status": "Failed"}
+{"timestamp": "Jul 30 00:55:42", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:44", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:46", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "alice", "status": "Failed"}
+{"timestamp": "Jul 30 00:55:48", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:50", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:52", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:54", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:56", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:55:58", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:00", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:02", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:04", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:06", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:08", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "alice", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:10", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:12", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "bob", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:14", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:16", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:18", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:20", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:22", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:24", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:26", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:28", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:30", "source": "ssh", "src_ip": "192.168.1.11", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:32", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "alice", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:34", "source": "ssh", "src_ip": "192.168.1.10", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:36", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "bob", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:38", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:40", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "bob", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:42", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:44", "source": "ssh", "src_ip": "192.168.1.12", "event_type": "auth", "user": "erin", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:46", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "dave", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:48", "source": "ssh", "src_ip": "192.168.1.14", "event_type": "auth", "user": "carol", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:50", "source": "ssh", "src_ip": "192.168.1.13", "event_type": "auth", "user": "alice", "status": "Accepted"}
+{"timestamp": "Jul 30 00:56:52", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "root", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:54", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "administrator", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:56", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "administrator", "status": "Failed"}
+{"timestamp": "Jul 30 00:56:58", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "root", "status": "Failed"}
+{"timestamp": "Jul 30 00:57:00", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "admin", "status": "Failed"}
+{"timestamp": "Jul 30 00:57:02", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "administrator", "status": "Failed"}
+{"timestamp": "Jul 30 00:57:04", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "test", "status": "Failed"}
+{"timestamp": "Jul 30 00:57:06", "source": "ssh", "src_ip": "198.51.100.23", "event_type": "auth", "user": "root", "status": "Failed"}
+{"timestamp": "30/Jul/2026:00:53:33", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:35", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:37", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:53:39", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:41", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:43", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:45", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:53:47", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:53:49", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:51", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:53", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:55", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:57", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:53:59", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:01", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:03", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:05", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:07", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:09", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:11", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:13", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:15", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:54:17", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:19", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:21", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:23", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:25", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:27", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:54:29", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:31", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:33", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:35", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:37", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:39", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:41", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:43", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:45", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:47", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:49", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:51", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:53", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:55", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:57", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:54:59", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:01", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:03", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:05", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:55:07", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:09", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:11", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:55:13", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:15", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:17", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:19", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:21", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:23", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:25", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:27", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:29", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:31", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:33", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:35", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:37", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:39", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:41", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:43", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:45", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:47", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:49", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:51", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:55:53", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:55", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:57", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:55:59", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:01", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:03", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:05", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:07", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:09", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:11", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:13", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:15", "source": "web", "src_ip": "192.168.1.13", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:17", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:19", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:21", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:23", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:25", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:27", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:29", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:31", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:33", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:35", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:37", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:39", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:41", "source": "web", "src_ip": "192.168.1.14", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:43", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:45", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:47", "source": "web", "src_ip": "192.168.1.10", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:49", "source": "web", "src_ip": "192.168.1.11", "event_type": "web_request", "user": null, "status": "200"}
+{"timestamp": "30/Jul/2026:00:56:51", "source": "web", "src_ip": "192.168.1.12", "event_type": "web_request", "user": null, "status": "404"}
+{"timestamp": "30/Jul/2026:00:56:53", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "30/Jul/2026:00:56:55", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "30/Jul/2026:00:56:57", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "30/Jul/2026:00:56:59", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "30/Jul/2026:00:57:01", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "30/Jul/2026:00:57:03", "source": "web", "src_ip": "203.0.113.7", "event_type": "web_attack", "user": null, "status": "403"}
+{"timestamp": "Jul 30 00:53:33", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:35", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:37", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:39", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:41", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:43", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:45", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:47", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:49", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:51", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:53", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:55", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:57", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:53:59", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:01", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:03", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:05", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:07", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:09", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:11", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:13", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:15", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:17", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:19", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:21", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:23", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:25", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:27", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:29", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:31", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:33", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:35", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:37", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:39", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:41", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:43", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:45", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:47", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:49", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:51", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:53", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:55", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:57", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:54:59", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:01", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:03", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:05", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:07", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:09", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:11", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:13", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:15", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:17", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:19", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:21", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:23", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:25", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:27", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:29", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:31", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:33", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:35", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:37", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:39", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:41", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:43", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:45", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:47", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:49", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:51", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:53", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:55", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:57", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:55:59", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:01", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:03", "source": "firewall", "src_ip": "10.0.0.7", "event_type": "port_443", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:05", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:07", "source": "firewall", "src_ip": "10.0.0.6", "event_type": "port_80", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:09", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_22", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:11", "source": "firewall", "src_ip": "10.0.0.5", "event_type": "port_53", "user": null, "status": "ALLOW"}
+{"timestamp": "Jul 30 00:56:13", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_178", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:14", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_332", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:15", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_98", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:16", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_174", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:17", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_554", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:18", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_562", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:19", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_374", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:20", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_743", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:21", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_950", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:22", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_918", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:23", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_457", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:24", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_483", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:25", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_763", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:26", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_39", "user": null, "status": "DENY"}
+{"timestamp": "Jul 30 00:56:27", "source": "firewall", "src_ip": "198.51.100.99", "event_type": "port_542", "user": null, "status": "DENY"}

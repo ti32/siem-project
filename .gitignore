@@ -1,0 +1,5 @@
+cat <<EOF > .gitignore
+__pycache__/
+*.pyc
+data/siem.db
+data/cron.log
