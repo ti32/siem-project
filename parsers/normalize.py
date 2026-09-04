@@ -46,8 +46,27 @@ def parse_firewall(filepath="../data/firewall.log"):
                 })
     return events
 
+
+def parse_real_firewall(filepath="../data/firewall_parsed.jsonl"):
+    events = []
+    with open(filepath) as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            rec = json.loads(line)
+            events.append({
+                "timestamp": rec["timestamp"],
+                "source": "firewall_real",
+                "src_ip": rec["source_ip"],
+                "event_type": f"port_{rec['dest_port']}",
+                "user": None,
+                "status": rec["action"]
+            })
+    return events
+
 def normalize_all(output="../data/events.jsonl"):
-    all_events = parse_ssh() + parse_web() + parse_firewall()
+    all_events = parse_ssh() + parse_web() + parse_firewall() + parse_real_firewall()
     with open(output, "w") as f:
         for e in all_events:
             f.write(json.dumps(e) + "\n")

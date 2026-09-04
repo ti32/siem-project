@@ -1,5 +1,6 @@
-cat <<EOF > .gitignore
-__pycache__/
 *.pyc
-data/siem.db
+__pycache__/
+cat <<EOF > .gitignore
 data/cron.log
+data/siem.db
+secrets/
